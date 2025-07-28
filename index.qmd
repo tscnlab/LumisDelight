@@ -1,5 +1,5 @@
 ---
-title: "Quarto Website Template"
+title: "Lumi's Delight"
 bibliography: references.bib
 format:
   html:
@@ -9,10 +9,9 @@ format:
 
 ---
 
-This is a Quarto website.
+This website hosts the comic book Lumi's Delight and its various translations. The book is intended for young readers aged 6-10 years old but older readers hopefully enjoy the content, too! 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Written and illustrated by Coline Weinzaepflen.
 
-```{r}
-1 + 1
-```
+Edited by  Dr Anna M Biller, Dr. Alejandra Parreño, Dr. Simone Stegbauer, Dr. Verena Streibel, and Dr. Matthew The.
+
