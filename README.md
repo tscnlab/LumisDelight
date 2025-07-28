@@ -2,9 +2,6 @@
 ## Cleaning up after the first build
 
 After your site is online, there are a few things you should do:
-
-- In the repo's webpage, go to the cogwheel next to `About`, and check `Use your GitHub Pages website`, then `Save changes`. This will put a handy link to your website in the repo's `About` section.
-- You can clone the repository to your local machine to edit the files in the editor of your choice.
 - In the file `_quarto.yml`, change the `title` to your liking. You should also set the URL's to the site, repo, and issues, as indicated by the comments.
 - In the file `license.md`, change the license type and the terms of the license.
 - Add information in the `about.qmd` file. This is the page that will be shown when you click on `About` in the top right corner of the website.
