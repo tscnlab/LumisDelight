@@ -2,10 +2,9 @@ project:
   type: website
 
 website:
-  title: "Quarto Website Template"
-#  site-url: put site url here
-  repo-url: https://github.com/tscnlab/QuartoWebsite
-#  repo-url: put repo url here and delete previous line
+  title: "Lumi's Delight"
+#  site-url: https://tscnlab.github.io/LumisDelight/
+#  repo-url: https://github.com/tscnlab/LumisDelight
 #  issue-url: put issue subpage here
   repo-actions: [edit, issue]
   page-navigation: true
@@ -22,8 +21,7 @@ website:
         href: contributing.qmd
     right:
       - icon: github
-        href: https://github.com/tscnlab/QuartoWebsite
-#        href: put repo url here and delete previous line
+#        href: https://github.com/tscnlab/LumisDelight
         aria-label: Quarto GitHub
 
 format:
