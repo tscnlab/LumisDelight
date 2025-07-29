@@ -4,14 +4,24 @@ bibliography: references.bib
 format:
   html:
     toc: true
-    toc-location: left
+    toc-location: right
     lightbox: true
-
 ---
 
-This website hosts the comic book Lumi's Delight and its various translations. The book is intended for young readers aged 6-10 years old but older readers hopefully enjoy the content, too! 
+![](images/Cover page.png)
 
-Written and illustrated by Coline Weinzaepflen.
+<br>
 
-Edited by  Dr Anna M Biller, Dr. Alejandra Parreño, Dr. Simone Stegbauer, Dr. Verena Streibel, and Dr. Matthew The.
+This website hosts the comic book **Lumi's Delight** and its various translations. The book is intended for young readers aged 6-10 years old but older readers hopefully enjoy the content, too!
 
+**Written and illustrated** by [Coline Weinz](https://colineweinzaepflen.com/).
+
+**Edited** by [Dr Anna M Biller](https://scholar.google.com/citations?user=zudbegkAAAAJ&hl=de), Dr. Alejandra Parreño, Dr. Simone Stegbauer, Dr. Verena Streibel, and Dr. Matthew The.
+
+<br>
+
+::: callout-tip
+## How to cite this resource:
+
+Weinz, C., Biller (Ed.), A. M., Parreño, A. (Ed.), Stegbauer, S. (Ed.), Streibel, V. (Ed.) & The, M. (Ed.) (2025). Lumi's Delight (C. Weinz, Illus.). DOI: TBA.
+:::

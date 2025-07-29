@@ -2,4 +2,30 @@
 title: "About"
 ---
 
-About this site
+This Comic Book is a scientific outreach product designed by the Editors during the [TUM Researcher Program](https://www.tum.de/lebenslanges-lernen/angebote-mitarbeitende/people-development/career-design/researcher). TUM Researcher is a 12-month qualification programme that prepares researchers for a responsible leadership role in research.
+
+<br>
+
+## Funding
+
+The Comic Book was funded by [The Daylight Academy](https://daylight.academy/), [eConversion](https://www.e-conversion.de/de/), and [crc325](https://crc325.de/).
+
+::: {layout-nrow="1"}
+![](images/Daylight_Academy_Logo_Schwarz_gross.jpg){fig-align="left" width="184"}
+
+![](images/e-conversion_Logo_CMYK_blau_print.jpg){fig-align="right" width="284"}
+
+![](images/CRC-325-Logo-1.PNG){fig-align="center" width="250"}
+:::
+
+<br>
+
+## Licence
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+<br>
+
+## Contributing
+
+You can contribute by translating this comic book to your native language. If you are interested, get in touch with Dr. Anna Biller: [anna.biller\@tum.de](anna.biller@tum.de)
