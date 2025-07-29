@@ -1,5 +1,5 @@
 ---
-title: "Lumi's Delight"
+title: "Lumi's Delight - A Comic Book"
 bibliography: references.bib
 format:
   html:
