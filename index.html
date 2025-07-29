@@ -41,6 +41,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-a986a95301e671fce2c6472dffc862a1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="floating nav-fixed quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -118,12 +121,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -153,9 +153,25 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This website hosts the comic book Lumi’s Delight and its various translations. The book is intended for young readers aged 6-10 years old but older readers hopefully enjoy the content, too!</p>
-<p>Written and illustrated by Coline Weinzaepflen.</p>
-<p>Edited by Dr Anna M Biller, Dr.&nbsp;Alejandra Parreño, Dr.&nbsp;Simone Stegbauer, Dr.&nbsp;Verena Streibel, and Dr.&nbsp;Matthew The.</p>
+<p><a href="images/Cover page.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/Cover page.png" class="img-fluid"></a></p>
+<p><br></p>
+<p>This website hosts the comic book <strong>Lumi’s Delight</strong> and its various translations. The book is intended for young readers aged 6-10 years old but older readers hopefully enjoy the content, too!</p>
+<p><strong>Written and illustrated</strong> by <a href="https://colineweinzaepflen.com/">Coline Weinz</a>.</p>
+<p><strong>Edited</strong> by <a href="https://scholar.google.com/citations?user=zudbegkAAAAJ&amp;hl=de">Dr Anna M Biller</a>, Dr.&nbsp;Alejandra Parreño, Dr.&nbsp;Simone Stegbauer, Dr.&nbsp;Verena Streibel, and Dr.&nbsp;Matthew The.</p>
+<p><br></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+How to cite this resource:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Weinz, C., Biller (Ed.), A. M., Parreño, A. (Ed.), Stegbauer, S. (Ed.), Streibel, V. (Ed.) &amp; The, M. (Ed.) (2025). Lumi’s Delight (C. Weinz, Illus.). DOI: TBA.</p>
+</div>
+</div>
 
 
 
@@ -560,6 +576,38 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
