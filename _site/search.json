@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This Comic Book is a scientific outreach product designed by the Editors during the TUM Researcher Program. TUM Researcher is a 12-month qualification programme that prepares researchers for a responsible leadership role in research."
+    "text": "This Comic Book is a scientific outreach product designed by the Editors during the TUM Researcher Program. TUM Researcher is is a 12-month qualification programme from the Technical University of Munich that prepares researchers for a responsible leadership role in research."
   },
   {
     "objectID": "contributing.html",
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Lumi’s Delight",
     "section": "",
-    "text": "This website hosts the comic book Lumi’s Delight and its various translations. The book is intended for young readers aged 6-10 years old but older readers hopefully enjoy the content, too!\nWritten and illustrated by Coline Weinz.\nEdited by Dr Anna M Biller, Dr. Alejandra Parreño, Dr. Simone Stegbauer, Dr. Verena Streibel, and Dr. Matthew The.\n\n\n\n\n\n\n\nHow to cite this resource:\n\n\n\nWeinz, C., Biller (Ed.), A. M., Parreño, A. (Ed.), Stegbauer, S. (Ed.), Streibel, V. (Ed.) & The, M. (Ed.) (2025). Lumi’s Delight (C. Weinz, Illus.). DOI: TBA."
+    "text": "Lumi’s Delight - a scientific Comic Book for young readers aged 6-10 years and all adults young at heart!\nWritten and illustrated by Coline Weinz.\nEdited by Dr Anna M Biller, Dr. Alejandra Parreño, Dr. Simone Stegbauer, Dr. Verena Streibel, and Dr. Matthew The."
   },
   {
     "objectID": "about.html#funding",
@@ -54,5 +54,19 @@
     "title": "About",
     "section": "Contributing",
     "text": "Contributing\nYou can contribute by translating this comic book to your native language. If you are interested, get in touch with Dr. Anna Biller: anna.biller@tum.de"
+  },
+  {
+    "objectID": "index.html#downloads",
+    "href": "index.html#downloads",
+    "title": "Lumi’s Delight",
+    "section": "Downloads",
+    "text": "Downloads\n\nLumi’s Delight (English)\nLumis Herzensfreude (Deutsch)\nLe passe-temps préféré de Lumi (Français)"
+  },
+  {
+    "objectID": "about.html#citation",
+    "href": "about.html#citation",
+    "title": "About",
+    "section": "Citation",
+    "text": "Citation\n\n\n\n\n\n\nHow to cite this resource:\n\n\n\nWeinz, C., Biller (Ed.), A. M., Parreño, A. (Ed.), Stegbauer, S. (Ed.), Streibel, V. (Ed.) & The, M. (Ed.) (2025). Lumi’s Delight (C. Weinz, Illus.). DOI: TBA."
   }
 ]

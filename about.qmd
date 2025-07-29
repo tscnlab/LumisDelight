@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-This Comic Book is a scientific outreach product designed by the Editors during the [TUM Researcher Program](https://www.tum.de/lebenslanges-lernen/angebote-mitarbeitende/people-development/career-design/researcher). TUM Researcher is a 12-month qualification programme that prepares researchers for a responsible leadership role in research.
+This Comic Book is a scientific outreach product designed by the Editors during the [TUM Researcher Program](https://www.tum.de/lebenslanges-lernen/angebote-mitarbeitende/people-development/career-design/researcher). TUM Researcher is is a 12-month qualification programme from the [Technical University of Munich](https://www.tum.de/) that prepares researchers for a responsible leadership role in research.
 
 <br>
 
@@ -29,3 +29,13 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDe
 ## Contributing
 
 You can contribute by translating this comic book to your native language. If you are interested, get in touch with Dr. Anna Biller: [anna.biller\@tum.de](anna.biller@tum.de)
+
+<br>
+
+## Citation
+
+::: callout-tip
+## How to cite this resource:
+
+Weinz, C., Biller (Ed.), A. M., Parreño, A. (Ed.), Stegbauer, S. (Ed.), Streibel, V. (Ed.) & The, M. (Ed.) (2025). Lumi's Delight (C. Weinz, Illus.). DOI: TBA.
+:::

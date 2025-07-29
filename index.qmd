@@ -12,7 +12,7 @@ format:
 
 <br>
 
-This website hosts the comic book **Lumi's Delight** and its various translations. The book is intended for young readers aged 6-10 years old but older readers hopefully enjoy the content, too!
+**Lumi's Delight** - a scientific Comic Book for young readers aged 6-10 years and all adults young at heart!
 
 **Written and illustrated** by [Coline Weinz](https://colineweinzaepflen.com/).
 
@@ -25,3 +25,13 @@ This website hosts the comic book **Lumi's Delight** and its various translation
 
 Weinz, C., Biller (Ed.), A. M., Parreño, A. (Ed.), Stegbauer, S. (Ed.), Streibel, V. (Ed.) & The, M. (Ed.) (2025). Lumi's Delight (C. Weinz, Illus.). DOI: TBA.
 :::
+
+<br>
+
+## Downloads
+
+-   Lumi's Delight (English)
+
+-   Lumis Herzensfreude (Deutsch)
+
+-   Le passe-temps préféré de Lumi (Français)
