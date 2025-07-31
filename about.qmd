@@ -20,12 +20,6 @@ The Comic Book was funded by [The Daylight Academy](https://daylight.academy/), 
 
 <br>
 
-## Licence
-
-This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-<br>
-
 ## Contributing
 
 You can contribute by translating this comic book to your native language. If you are interested, get in touch with Dr. Anna Biller: [anna.biller\@tum.de](anna.biller@tum.de)

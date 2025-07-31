@@ -8,7 +8,7 @@ format:
     lightbox: true
 ---
 
-![](images/Cover page.png)
+![](images/Cover%20page.png)
 
 <br>
 
@@ -25,6 +25,12 @@ format:
 
 Weinz, C., Biller (Ed.), A. M., Parreño, A. (Ed.), Stegbauer, S. (Ed.), Streibel, V. (Ed.) & The, M. (Ed.) (2025). Lumi's Delight (C. Weinz, Illus.). DOI: TBA.
 :::
+
+<br>
+
+## Licence
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 <br>
 
