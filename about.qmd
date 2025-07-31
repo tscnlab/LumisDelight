@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-This Comic Book is a scientific outreach product designed by the Editors during the [TUM Researcher Program](https://www.tum.de/lebenslanges-lernen/angebote-mitarbeitende/people-development/career-design/researcher). TUM Researcher is is a 12-month qualification programme from the [Technical University of Munich](https://www.tum.de/) that prepares researchers for a responsible leadership role in research.
+This Comic Book is a scientific outreach product designed by the Editors during the [TUM Researcher Program](https://www.tum.de/lebenslanges-lernen/angebote-mitarbeitende/people-development/career-design/researcher). TUM Researcher is a 12-month qualification programme from the [Technical University of Munich](https://www.tum.de/) that prepares researchers for a responsible leadership role in research.
 
 <br>
 
