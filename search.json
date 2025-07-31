@@ -21,13 +21,6 @@
     "text": "Funding\nThe Comic Book was funded by The Daylight Academy, eConversion, and crc325."
   },
   {
-    "objectID": "about.html#licence",
-    "href": "about.html#licence",
-    "title": "About",
-    "section": "Licence",
-    "text": "Licence\nThis work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License."
-  },
-  {
     "objectID": "about.html#contributing",
     "href": "about.html#contributing",
     "title": "About",
@@ -54,6 +47,13 @@
     "title": "Lumi’s Delight - A Comic Book",
     "section": "",
     "text": "Lumi’s Delight - a scientific Comic Book for young readers aged 6-10 years and all adults young at heart!\nWritten and illustrated by Coline Weinz.\nEdited by Dr Anna M Biller, Dr. Alejandra Parreño, Dr. Simone Stegbauer, Dr. Verena Streibel, and Dr. Matthew The."
+  },
+  {
+    "objectID": "index.html#licence",
+    "href": "index.html#licence",
+    "title": "Lumi’s Delight - A Comic Book",
+    "section": "Licence",
+    "text": "Licence\nThis work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License."
   },
   {
     "objectID": "index.html#downloads",
