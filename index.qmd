@@ -14,9 +14,11 @@ format:
 
 **Lumi's Delight** - a scientific Comic Book for young readers aged 6-10 years and all adults young at heart!
 
+Lumi is an educational comic that follows Lumi, a curious ray of sunlight, on its journey from the Sun to Earth. Along the way, Lumi explores how daylight interacts with the natural world, visiting a variety of ecosystems and learning how light influences life on our planet. The comic introduces both young readers and adults to the science of light and its essential role in biological processes, such as photosynthesis and circadian rhythms. Lumi meets plants, animals, and even microorganisms, uncovering the connections between sunlight and the rhythms of life on Earth. The aim of the comic is to inspire curiosity about natural phenomena, foster scientific literacy, and raise awareness about the importance of daylight in our daily lives.
+
 **Written and illustrated** by [Coline Weinz](https://colineweinzaepflen.com/).
 
-**Edited** by [Dr. Anna M Biller](https://scholar.google.com/citations?user=zudbegkAAAAJ&hl=de), Dr. Alejandra Parreño, Dr. Simone Stegbauer, Dr. Verena Streibel, and Dr. Matthew The.
+**Edited** by [Dr. Anna M Biller](https://scholar.google.com/citations?user=zudbegkAAAAJ&hl=de), [Dr. Alejandra Parreño,](https://scholar.google.com/citations?user=0aF4yOcAAAAJ&hl=de&oi=ao) [Dr. Simone Stegbauer](https://www.ch.nat.tum.de/oc1/lehrstuhl/simone-stegbauer/), [Dr. Verena Streibel](https://scholar.google.com/citations?user=15mHmNkAAAAJ&hl=de&oi=ao), and [Dr. Matthew The](https://www.mls.ls.tum.de/proteomics/people/dr-matthew-the/).
 
 <br>
 
