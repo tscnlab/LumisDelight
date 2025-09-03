@@ -8,7 +8,7 @@ format:
     lightbox: true
 ---
 
-![](images/Cover%20page.png)
+![](Image site.png)
 
 <br>
 
@@ -22,10 +22,20 @@ Lumi is an educational comic that follows Lumi, a curious ray of sunlight, on it
 
 <br>
 
-::: callout-tip
-## How to cite this resource:
+## Downloads
 
-Weinz, C., Biller (Ed.), A. M., Parreño, A. (Ed.), Stegbauer, S. (Ed.), Streibel, V. (Ed.) & The, M. (Ed.) (2025). Lumi's Delight (C. Weinz, Illus.). DOI: TBA.
+-   [Lumi's Delight](https://mediatum.ub.tum.de/doc/1793458/1793458.pdf) (English)
+
+-   Lumis Herzensfreude (Deutsch)
+
+-   Le passe-temps préféré de Lumi (Français)
+
+<br>
+
+::: callout-tip
+## How to cite this resource (English Version):
+
+Weinz, C., Biller, A. M. (Ed.), Parreño, A. (Ed.), Stegbauer, S. (Ed.), Streibel, V. (Ed.) & The, M. (Ed.) (2025). Lumi's Delight (C. Weinz, Illus.). DOI: <https://doi.org/10.14459/2025MD1793458>
 :::
 
 <br>
@@ -36,10 +46,4 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDe
 
 <br>
 
-## Downloads
-
--   Lumi's Delight (English)
-
--   Lumis Herzensfreude (Deutsch)
-
--   Le passe-temps préféré de Lumi (Français)
+## 
