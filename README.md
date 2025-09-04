@@ -1,4 +1,4 @@
-![](Image site.png){width="642"}
+![](Image%20site.png)
 
 # Information about this Project
 
@@ -12,21 +12,27 @@ Lumi's Delight is an educational comic that follows Lumi, a curious ray of sunli
 
 **Edited** by Dr. Anna M Biller, Dr. Alejandra Parreño, Dr. Simone Stegbauer, Dr. Verena Streibel, and Dr. Matthew The.
 
+<br>
+
 ## Funding
 
 The Comic Book was funded by [The Daylight Academy](https://daylight.academy/), [eConversion](https://www.e-conversion.de/de/), and [crc325](https://crc325.de/).
 
-![](images/clipboard-15646770.png){width="576"}
+![](images/clipboard-15646770.png)
+
+<br>
 
 ## How can I contribute?
 
 You can contribute by translating this comic book to your native language. If you are interested, get in touch with Dr. Anna M Biller: [anna.biller\@tum.de](https://tscnlab.github.io/LumisDelight/anna.biller@tum.de)
 
+<br>
+
 ## Licence
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-## 
+<br>
 
 ## How to cite this resource:
 
