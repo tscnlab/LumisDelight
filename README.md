@@ -1,3 +1,5 @@
+![](Image site.png){width="642"}
+
 # Information about this Project
 
 Το download and read the book visit our website: <https://tscnlab.github.io/LumisDelight/about.html>
@@ -14,7 +16,7 @@ Lumi's Delight is an educational comic that follows Lumi, a curious ray of sunli
 
 The Comic Book was funded by [The Daylight Academy](https://daylight.academy/), [eConversion](https://www.e-conversion.de/de/), and [crc325](https://crc325.de/).
 
-![](images/clipboard-2345400076.png){width="536"}
+![](images/clipboard-15646770.png){width="576"}
 
 ## How can I contribute?
 
@@ -26,8 +28,6 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDe
 
 ## 
 
-::: callout-tip
 ## How to cite this resource:
 
 Weinz, C., Biller, A. M. (Ed.), Parreño, A. (Ed.), Stegbauer, S. (Ed.), Streibel, V. (Ed.) & The, M. (Ed.) (2025). Lumi's Delight (C. Weinz, Illus.). DOI: <https://doi.org/10.14459/2025MD1793458>
-:::
