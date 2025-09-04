@@ -1,6 +1,4 @@
----
-title: "Contributing"
----
+# Contributing
 
 You can contribute by translating this comic book to your native language.
 

@@ -10,7 +10,7 @@ Lumi's Delight is an educational comic that follows Lumi, a curious ray of sunli
 
 **Written and illustrated** by Coline Weinz.
 
-**Edited** by Dr. Anna M Biller, Dr. Alejandra Parreño, Dr. Simone Stegbauer, Dr. Verena Streibel, and Dr. Matthew The.
+**Edited** by [Dr. Anna M Biller](https://scholar.google.com/citations?user=zudbegkAAAAJ&hl=de), [Dr. Alejandra Parreño](https://scholar.google.com/citations?user=0aF4yOcAAAAJ&hl=de&oi=ao), [Dr. Simone Stegbauer](https://www.ch.nat.tum.de/oc1/lehrstuhl/simone-stegbauer/), [Dr. Verena Streibel](https://scholar.google.com/citations?user=15mHmNkAAAAJ&hl=de&oi=ao), and [Dr. Matthew The](https://www.mls.ls.tum.de/proteomics/people/dr-matthew-the/).
 
 <br>
 
@@ -24,7 +24,7 @@ The Comic Book was funded by [The Daylight Academy](https://daylight.academy/), 
 
 ## How can I contribute?
 
-You can contribute by translating this comic book to your native language. If you are interested, get in touch with Dr. Anna M Biller: [anna.biller\@tum.de](https://tscnlab.github.io/LumisDelight/anna.biller@tum.de)
+You can contribute by translating this comic book to your native language. If you are interested, get in touch with Dr. Anna M Biller: [anna.biller\@tum.de](https://tscnlab.github.io/LumisDelight/anna.biller@tum.de)
 
 <br>
 
@@ -34,6 +34,6 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDe
 
 <br>
 
-## How to cite this resource:
+## How to cite this resource
 
 Weinz, C., Biller, A. M. (Ed.), Parreño, A. (Ed.), Stegbauer, S. (Ed.), Streibel, V. (Ed.) & The, M. (Ed.) (2025). Lumi's Delight (C. Weinz, Illus.). DOI: <https://doi.org/10.14459/2025MD1793458>
