@@ -18,7 +18,7 @@ Lumi's Delight is an educational comic that follows Lumi, a curious ray of sunli
 
 The Comic Book was funded by [The Daylight Academy](https://daylight.academy/), [eConversion](https://www.e-conversion.de/de/), and [crc325](https://crc325.de/).
 
-![](images/clipboard-15646770.png)
+![](images/clipboard-15646770.png){width="539"}
 
 <br>
 
