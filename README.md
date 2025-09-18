@@ -34,6 +34,6 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDe
 
 <br>
 
-## How to cite this resource
+## How to cite this resource (English Version)
 
 Weinz, C., Biller, A. M. (Ed.), Parreño, A. (Ed.), Stegbauer, S. (Ed.), Streibel, V. (Ed.) & The, M. (Ed.) (2025). Lumi's Delight (C. Weinz, Illus.). DOI: <https://doi.org/10.14459/2025MD1793458>
