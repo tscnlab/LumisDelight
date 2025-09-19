@@ -1,0 +1,5 @@
+# Contributing
+
+You can contribute by translating this comic book to your native language.
+
+If you are interested, get in touch with Dr. Anna Biller: [anna.biller\@tum.de](anna.biller@tum.de)
