@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tscnlab.github.io/LumisDelight/index.html</loc>
-    <lastmod>2025-09-19T15:33:43.863Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tscnlab.github.io/LumisDelight/license.html</loc>
-    <lastmod>2025-09-19T15:33:43.863Z</lastmod>
+    <loc>https://tscnlab.github.io/LumisDelight/contributing.html</loc>
+    <lastmod>2025-09-19T15:35:07.430Z</lastmod>
   </url>
   <url>
     <loc>https://tscnlab.github.io/LumisDelight/about.html</loc>
-    <lastmod>2025-09-19T15:33:43.775Z</lastmod>
+    <lastmod>2025-09-19T15:35:07.430Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tscnlab.github.io/LumisDelight/license.html</loc>
+    <lastmod>2025-09-19T15:35:07.517Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tscnlab.github.io/LumisDelight/index.html</loc>
+    <lastmod>2025-09-19T15:35:07.517Z</lastmod>
   </url>
 </urlset>
