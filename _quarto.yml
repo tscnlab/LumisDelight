@@ -15,13 +15,13 @@ website:
         text: Home
       - text: "About"
         href: about.qmd
-#      - text: "License"
-#        href: license.md
+      - text: "License"
+        href: license.md
       - text: "Contributing"
         href: contributing.qmd
     right:
       - icon: github
-#        href: https://github.com/tscnlab/LumisDelight
+        href: https://github.com/tscnlab/LumisDelight
         aria-label: Quarto GitHub
 
 format:
